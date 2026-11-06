@@ -7,8 +7,8 @@ from aiogram.filters import Command
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # Token dan Chat ID langsung di dalam script (GANTI DENGAN YANG BENAR)
-TOKEN = ""
-CHAT_ID = ""
+TOKEN = "8604535755:AAEB87bUM1qsKCwY4jBGjP8Axy2ldnYXRdo"
+CHAT_ID = "9141872005"
 
 # Validasi token agar tidak menyebabkan error Unauthorized
 if not TOKEN.startswith("8124") or ":" not in TOKEN:
